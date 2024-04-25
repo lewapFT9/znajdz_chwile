@@ -1,7 +1,7 @@
 {
     "version": 2,
     "builds": [{
-      "src": "djangoprojectname/wsgi.py",
+      "src": "znajdz_chwile/wsgi.py",
       "use": "vercel-sapper",
       "config": { "maxLambdaSize": "15mb", "runtime": "python3.8" }
     }],
