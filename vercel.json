@@ -7,7 +7,7 @@
     }],
     "routes": [
         {
-            "src": "/(.*)",
+            "src": "/",
             "dest": "znajdz_chwile/wsgi.py"
         }
     ]
